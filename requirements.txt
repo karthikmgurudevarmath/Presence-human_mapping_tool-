@@ -1,0 +1,5 @@
+pynput
+pygetwindow
+pandas
+matplotlib
+seaborn
